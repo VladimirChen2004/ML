@@ -1,0 +1,1 @@
+7[[:space:]]Классификация[[:space:]]текстов[[:space:]]через[[:space:]]эмбеддинги[[:space:]]слов/lenta_news.csv filter=lfs diff=lfs merge=lfs -text
